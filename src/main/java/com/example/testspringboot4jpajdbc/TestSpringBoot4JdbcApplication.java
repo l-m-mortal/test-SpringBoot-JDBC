@@ -13,10 +13,10 @@ import java.util.Map;
 
 @SpringBootApplication
 
-public class TestSpringBoot4JpaJdbcApplication implements CommandLineRunner {
+public class TestSpringBoot4JdbcApplication implements CommandLineRunner {
 
     public static void main(String[] args) {
-        SpringApplication.run(TestSpringBoot4JpaJdbcApplication.class, args);
+        SpringApplication.run(TestSpringBoot4JdbcApplication.class, args);
     }
 
     @Autowired
